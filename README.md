@@ -1,2 +1,5 @@
-# FivemFXAPDecryptor
-A tool for decrypting and extracting bytecode from FiveM resources, allowing modification, and debugging of protected assets.
+# Fivem FXAP Decryptor
+- The ONLY **FREE** and working FXAP decryptor bot
+- Unlimited decrypts, no limits
+-Discord: https://discord.gg/mtBPyEMUtE
+
