@@ -1,6 +1,6 @@
-# Fivem FXAP Decryptor - SHUTDOWN
-# INTERESTED IN BUYING SOURCE FOR CHEAP -> DM ME ON DISCORD: sn.zyx (1395183019882446939)
+# Fivem FXAP Decryptor - fxap.lol
+# Soon Back!!!
 - The ONLY **FREE** and working FXAP decryptor bot
 - Unlimited decrypts, no limits
-- Discord: https://discord.gg/mtBPyEMUtE
+- Discord: [https://discord.gg/mtBPyEMUtE](https://discord.gg/6C3P7mVkp3)
 
